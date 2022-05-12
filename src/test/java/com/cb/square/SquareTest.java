@@ -43,4 +43,3 @@ public class SquareTest {
         assertThrows(IllegalArgumentException.class, () -> square.calculate(-1));
     }
 }
-
