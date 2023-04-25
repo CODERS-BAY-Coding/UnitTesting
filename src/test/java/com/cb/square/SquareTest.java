@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class SquareTest {
+class SquareTest {
     /*
      * Your customer has requested a Java Class "com.cb.square.com.cb.square.Square" with one Method "calculate"
      * This method takes a positive int number as a parameter and returns the square of the number
